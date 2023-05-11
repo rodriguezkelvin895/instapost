@@ -1,0 +1,11 @@
+body{ background-color: black}
+
+.post { 
+    background-color: hsl(0, 0%, 100%);
+    width: 400px;
+   
+    margin:  auto;
+}
+.header{display: flex;
+
+background-color: aliceblue;}
